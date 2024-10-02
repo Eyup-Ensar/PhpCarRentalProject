@@ -1,0 +1,29 @@
+{
+    "araclar": 
+    [
+        {
+            "firma_ismi" : "firma_ismi",
+            "vergi_dairesi" : "vergi_dairesi",
+            "vergi_numarasi" : "vergi_numarasi",
+            "yasak" : "yasak",
+            "firma_durum" : "pasif",
+            "borc" : 50
+        },
+        {
+            "firma_ismi" : "firma_ismi",
+            "vergi_dairesi" : "vergi_dairesi",
+            "vergi_numarasi" : "vergi_numarasi",
+            "yasak" : "yasak",
+            "firma_durum" : "aktif",
+            "borc" : 50
+        },
+        {
+            "firma_ismi" : "firma_ismi",
+            "vergi_dairesi" : "vergi_dairesi",
+            "vergi_numarasi" : "vergi_numarasi",
+            "yasak" : "yasak",
+            "firma_durum" : "aktif",
+            "borc" : 50
+        }
+    ]
+}

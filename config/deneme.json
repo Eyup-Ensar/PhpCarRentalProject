@@ -1,0 +1,60 @@
+{
+    "araclar": 
+    [
+        {
+            "marka" : "denemessssssssss",
+            "model" : "deneme",
+            "plaka" : "deneme",
+            "durum" : "deneme",
+            "kilometre" : 50,
+            "yakit_tipi" : "deneme",
+            "sanziman" : "deneme",
+            "yil" : "deneme",
+            "renk" : "deneme",
+            "bakim" : 50,
+            "muayene_tarihi" : "01.01.2011",
+            "km_tarihi" : "01.01.2011",
+            "imm_bitis" : "01.01.2011",
+            "sase_no" : "asd3313fdsfad",
+            "kullanici" : "Ensar",
+            "telefon" : "5555555555"
+        },
+        {
+            "marka" : "deneme2ssssssssss",
+            "model" : "deneme2",
+            "plaka" : "deneme2",
+            "durum" : "deneme2",
+            "kilometre" : 50,
+            "yakit_tipi" : "deneme2",
+            "sanziman" : "deneme2",
+            "yil" : "deneme2",
+            "renk" : "deneme2",
+            "bakim" : 50,
+            "muayene_tarihi" : "01.01.2011",
+            "sigorta_tarihi" : "01.01.2011",
+            "kasko_takibi" : "01.01.2011",
+            "km_tarihi" : "01.01.2011",
+            "trafik_bitis" : "01.01.2011",
+            "kasko_bitis" : "01.01.2011",
+            "imm_bitis" : "01.01.2011",
+            "sase_no" : "asd3313fdsfad",
+            "kullanici" : "Ensar",
+            "telefon" : "5555555555"
+        }
+    ],
+    "sigortalar":
+    [
+        {
+            "marka" : "denemessssssssss",
+            "model" : "deneme",
+            "plaka" : "deneme",
+            "durum" : "deneme"
+        },
+        {
+            "marka" : "deneme2ssssssssss",
+            "model" : "deneme2",
+            "plaka" : "deneme2",
+            "durum" : "deneme2"
+        }
+    ]
+}
